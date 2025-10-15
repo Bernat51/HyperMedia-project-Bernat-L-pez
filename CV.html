@@ -1,0 +1,103 @@
+<!DOCTYPEhtml>
+<html>
+    <head>
+        <title>CV HTML</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="jsCV.js" type="text/javascript">
+        </script>
+    </head>
+    <header>
+        <h1>Bernat López i Iglesias</h1>
+    </header>
+    <body>
+        <div id="navigation">
+            <a href="#Experiencia">Experiència Laboral</a>
+            <a href="#academiques">Formació Acadèmica</a>
+            <a href="#Interesos">Habilitats i Interesos</a>
+            <a href="#Sobre">Sobre mi</a>
+            <a href="#Contact">Contacte</a>
+            <a href="#Idiomes">Idiomes</a>
+        </div>
+        <section id="cv">
+            <div class="personal">
+                <img class="foto" src="foto.jpg">
+                <section id="Sobre">
+                    <h2>Sobre mi</h2>
+                    <p>Soc un estudiant amb una actitud proactiva i ganes d'aprendre. M'agrada compartir coneixements i colaborar amb els meus companys. Amb una naturalesa extrovertida, estic sempre obert a noves oportunitats per créixer personalment i professionalment.</p>
+                </section>
+                <section id="Contact">
+                    <h2>Contacte</h2>
+                </section>
+                <section>
+                    <img src="telef.png" alt="Telefon">
+                    <p>603 041 797</p>
+                </section>
+                <section>
+                    <img src="email.png" alt="Email">
+                    <p>bernat.lopez.iglesias@gmail.com</p>
+                </section>
+                <section>
+                    <img src="location.png" alt="Location">
+                    <p>Vilafant, Girona</p>
+                </section>
+                <section id="Idiomes">
+                    <h2>Idiomes</h2>
+                </section>
+                <section>
+                    <table>
+                        <th scope="col">Idioma</th>
+                        <th scope="col">Nivell</th>
+                        <tr>
+                            <td>Català</td>
+                            <td>Natiu</td>
+                        </tr>
+                        <tr>
+                            <td>Castellà</td>
+                            <td>Natiu</td>
+                        </tr>
+                        <tr>
+                            <td>Anglès</td>
+                            <td>Advance (C1)</td>
+                        </tr>
+                    </table>
+                </section>
+            </div>
+            <div class="general">
+                <section id="Experiencia">
+                    <h2>Experiència Laboral</h2>
+                    <select name="feines" onchange="feines()">
+                        <option value="selecciona" selected>Selecciona una feina</option>
+                        <option value="arbitre">Arbitre FCBQ</option>
+                        <option value="entrenador">Entrenador CE Vilafant</option>
+                        <option value="monitor">Monitor de lleure</option>
+                        <option value="informatic">Informàtic (aprenent)</option>
+                    </select>
+                    <section id="descripFeina">
+
+                    </section>
+                </section>
+                <section id="academiques">
+                    <h2>Formació Acadèmica</h2>
+                    <h3>3r any d'Enginyeria Informàtica</h3>
+                    <p>Setembre 2023 - ...</p>
+                    <p>Estic cursant el tercer any del Grau d’Enginyeria Informàtica a la UdG.</p>
+                    <h3>Batxillerat</h3>
+                    <p>Setembre 2021 - Maig 2023</p>
+                    <p>Batxillerat científic-tecnològic cursat al INS Vilafant destacant pel meu alt rendiment en matemàtiques</p>
+                    <h3>Monitor de lleure</h3>
+                    <p>He realitzat tots els tràmits i a l’estiu acostumo a treballar com a monitor de lleure.</p>
+                </section>
+                <section id="Interesos">
+                    <h2>Habilitats i Interesos</h2>
+                    <h3>Tracte amb nens/es</h3>
+                    <p>Destresa en interactuar amb nens, combinant habilitats per crear un ambient divertit i estimulant amb una disciplina necessària quan es requereix. Hàbil en establir límits clars per garantir el respecte i un comportament adequat.</p>
+                    <h3>Ràpid aprenentatge</h3>
+                    <p>Destacada capacitat d'aprenentatge, demostrada a través de la rapidesa i l'eficàcia amb què assimilo nous conceptes i habilitats. Amb una actitud proactiva i motivada, soc capaç d'absorbir informació de manera ràpida i eficient, adaptant-me amb agilitat a nous reptes i entorns de treball.</p>
+                    <h3>Interès per noves aficions</h3>
+                    <p>Apassionat per descobrir i aprendre noves aficions, així com en el desenvolupament continu de les que ja tinc. Això s'ha reflectit en la meva dedicació al bàsquet, la guitarra, al mòn casteller, i la meva exploració de la cuina, entre altres activitats.</p>
+                </section>
+            </div>
+        </section>
+    </body>
+</html>
