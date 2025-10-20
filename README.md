@@ -1,6 +1,6 @@
-# HyperMedia-project-Bernat-L-pez
+# HyperMedia-project-Bernat-López
 
-I made this website for two knid of people, the first one is the teacher, I used many of the things we have learned to show the knowledge they have taught me.
+I made this website for two kind of people, the first one is the teacher, I used many of the things we have learned to show the knowledge they have taught me.
 The second type of person is for small busines owners that know about UdG, that's why I used these colors and the picture is me with Xoriguers.
 
 Information Architecture:
@@ -16,3 +16,6 @@ I decided to split both the personal and general part to divide my personal side
 The colors used in the web are the ones also used by the UdG, as a student of this university and member of Xoriguers, I feel that this colors represent me better than any other colors and makes people who already know about UdG find this web familiar with the institution, I wanted to use yellow and more light blue because that is the colors of Xoriguers, but I found that it made the web informal and unprofessional, so I went with more pale colors like grey and white and darker blue.
 For the titles like my name or "Formació Academica", I used a font that I feel it's formal (Platino), but I though that I couldn't use this one for long texts, that's why I used Arial, it may not seem that formal or professional but it's more apealing as a reader to have long texts as Arial rather than Platino.
 A feature I made is the fact that you can choose what job that I did you want to know about, I used JS for that and it was just to show to the teacher that I know how to use it.
+
+Figma Project:
+https://www.figma.com/design/U7nqQQ07FEHJySiv9P9gqv/CV?node-id=0-1&t=nPuAWvn6vBXGLo2G-1
