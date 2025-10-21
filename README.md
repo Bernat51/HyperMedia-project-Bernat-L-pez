@@ -19,3 +19,6 @@ A feature I made is the fact that you can choose what job that I did you want to
 
 Figma Project:
 https://www.figma.com/design/U7nqQQ07FEHJySiv9P9gqv/CV?node-id=0-1&t=nPuAWvn6vBXGLo2G-1
+
+Link to website:
+https://bernat51.github.io/
